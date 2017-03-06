@@ -13,9 +13,9 @@ class GPSDistanceMeter
 {
 
     /**
-     * Constant EARTH_RADIUS is in meters
+     * const EARTH_RADIUS is in meters [m]
      */
-    CONST EARTH_RADIUS = 6371000;
+    const EARTH_RADIUS = 6371000;
     /**
      * @var float
      */
