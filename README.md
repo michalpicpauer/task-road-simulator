@@ -1,2 +1,4 @@
-# task-road-simulator
-Application which have stored information about cities in database and simulate road travel.
+.checkout
+=========
+
+A Symfony project created on March 6, 2017, 6:27 pm.
