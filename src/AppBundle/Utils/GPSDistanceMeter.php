@@ -7,7 +7,7 @@ use AppBundle\Entity\City;
 /**
  * This class compute the distance between two GPS points
  *
- * @author Ryan Weaver <michalpicpauer@gmail.com>
+ * @author Michal Picpauer <michalpicpauer@gmail.com>
  */
 class GPSDistanceMeter
 {
