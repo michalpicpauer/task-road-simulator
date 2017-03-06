@@ -38,7 +38,7 @@ php bin/console task:simulate <file> [<sleep>]
   provide the missing value:
 
   - command will ask you for filepath
-      ```
-      php bin/console task:simulate
-      ```
+    ```
+    php bin/console task:simulate
+    ```
 
