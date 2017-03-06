@@ -37,8 +37,8 @@ php bin/console task:simulate <file> [<sleep>]
   If you omit required argument, the command will ask you to
   provide the missing value:
 
-  - command will ask you for filepath
-  ```
-  php bin/console task:simulate
-  ```
+    - command will ask you for filepath
+      ```
+      php bin/console task:simulate
+      ```
 
